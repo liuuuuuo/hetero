@@ -1,0 +1,46 @@
+trigger_state,trigger_state_id
+Becomes clear,0
+Cleaning completed,1
+Closes,2
+Detects CO alarm sound,3
+Detects a leak,4
+Detects a package,5
+Detects a person,6
+Detects a pet,7
+Detects a vehicle,8
+Detects motion,9
+Detects smoke alarm sound,10
+Detects sound,11
+Double Press,12
+Has been clear for,13
+Has been closed for,14
+Has been off for,15
+Has been on for,16
+Has been open for,17
+Has detected a leak for,18
+Has detected motion for,19
+Is pressed,20
+Is set to away,21
+Is set to home,22
+Is set to sleep,23
+Locks,24
+Opens,25
+Press and Hold,26
+Senses the humidity is above,27
+Senses the humidity is below,28
+Senses the temperature is above,29
+Senses the temperature is below,30
+Single Press - Off,31
+Single Press - On,32
+Start to clean,33
+Starts watering,34
+Stop cleaning,35
+Stops watering,36
+Triple Press,37
+Turns Off,38
+Turns On,39
+Turns off,40
+Turns on,41
+Turns on cool mode,42
+Turns on heat mode,43
+Unlocks,44

@@ -1,0 +1,48 @@
+action,action_id
+Chime,0
+Close the garage door,1
+Color Blink,2
+Color Temperature Blink,3
+Lock,4
+Mute Notifications,5
+Quick Replies,6
+Reset Position,7
+Restart the camera,8
+Set brightness to,9
+Set color selection,10
+Set color temperature to,11
+Set to Away,12
+Set to Home,13
+Set to Sleep,14
+Start Watering,15
+Start to clean,16
+Stop cleaning and return to the Charging Station,17
+Turn Sun Match Off,18
+Turn Sun Match On,19
+Turn off,20
+Turn off Spotlight,21
+Turn off floodlight,22
+Turn off lamp socket,23
+Turn off motion detection,24
+Turn off notifications,25
+Turn off the add-on spotlight,26
+Turn off the camera,27
+Turn off the siren,28
+Turn off the spotlight,29
+Turn on,30
+Turn on Spotlight,31
+Turn on cool mode,32
+Turn on floodlight,33
+Turn on for,34
+Turn on heat mode,35
+Turn on lamp socket,36
+Turn on motion detection,37
+Turn on notifications,38
+Turn on off mode,39
+Turn on the add-on spotlight,40
+Turn on the camera,41
+Turn on the siren,42
+Turn on the spotlight for,43
+Unlock,44
+Unmute Notifications,45
+Upload a short video to the cloud,46

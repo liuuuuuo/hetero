@@ -103,8 +103,6 @@ def split_data(user_graphs, all_trigger_actions, more_neg = False):
         train_neg_gs[user_index] = train_neg_g
         test_pos_gs[user_index] = test_pos_g
         test_neg_gs[user_index] = test_neg_g
-<<<<<<< HEAD
+
     return train_gs, train_pos_gs, train_neg_gs, test_pos_gs, test_neg_gs
-=======
-    return train_gs, train_pos_gs, train_neg_gs, test_pos_gs, test_neg_gs
->>>>>>> 6ec0a9139c3e74ed4d12dbd1959bd31513098fc5
+

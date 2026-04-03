@@ -1,0 +1,8 @@
+dataset: wyze
+learning_rate: 0.1
+log_dir: runs\exp8wyze_center
+logdir: ./runs
+model_type: graphsage
+more_negative: false
+num_comms: 400
+resume: .\runs\exp7wyze_center\checkpoint_epoch_199.pth

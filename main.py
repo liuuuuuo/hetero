@@ -21,8 +21,8 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', '--dataset', default='wyze', type=str)
     parser.add_argument('-l', '--logdir', default='./runs', type=str)
-    parser.add_argument('-lr', '--learning_rate', default=0.05, type=float)
-    parser.add_argument('-c', '--num_comms',default=200, type=int) # num_iterations in centralized training
+    parser.add_argument('-lr', '--learning_rate', default=0.005, type=float)
+    parser.add_argument('-c', '--num_comms',default=400, type=int) # num_iterations in centralized training
     parser.add_argument('-m', '--model_type', default='graphsage', type=str)
     parser.add_argument('-neg', '--more_negative', action='store_true')
     # 添加断点续训参数

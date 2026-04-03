@@ -1,0 +1,187 @@
+(base) PS C:\Users\Administrator> conda activate fedrule
+(fedrule) PS C:\Users\Administrator> E:
+(fedrule) PS E:\> cd E:\study\Federal_Map\FedRule\FedRule_previous
+(fedrule) PS E:\study\Federal_Map\FedRule\FedRule_previous> python main.py --resume .\runs\exp5wyze_center\checkpoint_epoch_49.pth
+load data
+Resuming from checkpoint .\runs\exp5wyze_center\checkpoint_epoch_49.pth
+Loaded checkpoint at epoch 49
+start training
+In epoch 50, loss: 0.24132068893167458
+In epoch 51, loss: 0.2406150029620853
+In epoch 52, loss: 0.23992375715837283
+In epoch 53, loss: 0.23855422467417062
+In epoch 54, loss: 0.23893341787618483
+Global Test Loss tensor(0.2010)
+Global Test AUC 0.975417979151711
+Global Test Positive MR 18.70711898803711
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_54.pth
+In epoch 55, loss: 0.23896667962578988
+In epoch 56, loss: 0.23821430995754345
+In epoch 57, loss: 0.2369705118236572
+In epoch 58, loss: 0.23675733424664297
+In epoch 59, loss: 0.23624327359794628
+Global Test Loss tensor(0.1981)
+Global Test AUC 0.9768191154505991
+Global Test Positive MR 18.036605834960938
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_59.pth
+In epoch 60, loss: 0.2355811241113744
+In epoch 61, loss: 0.2351171566449447
+In epoch 62, loss: 0.23451019142476304
+In epoch 63, loss: 0.23350332926046605
+In epoch 64, loss: 0.233614284039297
+Global Test Loss tensor(0.1953)
+Global Test AUC 0.9772286670724873
+Global Test Positive MR 17.347488403320312
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_64.pth
+In epoch 65, loss: 0.2335879338220774
+In epoch 66, loss: 0.2325849131121643
+In epoch 67, loss: 0.23157552083333333
+In epoch 68, loss: 0.23133529880035544
+In epoch 69, loss: 0.22926639020537123
+Global Test Loss tensor(0.1899)
+Global Test AUC 0.9783508229330207
+Global Test Positive MR 16.62043571472168
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_69.pth
+In epoch 70, loss: 0.22981108992397314
+In epoch 71, loss: 0.22899518969687993
+In epoch 72, loss: 0.22800255171307268
+In epoch 73, loss: 0.2272828421208531
+In epoch 74, loss: 0.22637443843799368
+Global Test Loss tensor(0.1903)
+Global Test AUC 0.9788175973185423
+Global Test Positive MR 16.486679077148438
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_74.pth
+In epoch 75, loss: 0.22485029127172196
+In epoch 76, loss: 0.22365086270734597
+In epoch 77, loss: 0.22446241237164297
+In epoch 78, loss: 0.2510921763921801
+In epoch 79, loss: 0.22457125357918642
+Global Test Loss tensor(0.1931)
+Global Test AUC 0.9769352636290544
+Global Test Positive MR 16.474597930908203
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_79.pth
+In epoch 80, loss: 0.22368515810130332
+In epoch 81, loss: 0.22566579038309637
+In epoch 82, loss: 0.22322413729265403
+In epoch 83, loss: 0.2221560895537125
+In epoch 84, loss: 0.22342946225809637
+Global Test Loss tensor(0.1918)
+Global Test AUC 0.976973981309983
+Global Test Positive MR 16.70775604248047
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_84.pth
+In epoch 85, loss: 0.2214216003900079
+In epoch 86, loss: 0.22135780756319115
+In epoch 87, loss: 0.22022888280015798
+In epoch 88, loss: 0.2189048769500395
+In epoch 89, loss: 0.21865610806674565
+Global Test Loss tensor(0.1951)
+Global Test AUC 0.9770185282020291
+Global Test Positive MR 16.302907943725586
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_89.pth
+In epoch 90, loss: 0.21813214294530014
+In epoch 91, loss: 0.21869668246445498
+In epoch 92, loss: 0.21659546862657977
+In epoch 93, loss: 0.21763323212875196
+In epoch 94, loss: 0.21567604968898105
+Global Test Loss tensor(0.1926)
+Global Test AUC 0.9781744148814948
+Global Test Positive MR 16.354516983032227
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_94.pth
+In epoch 95, loss: 0.21556713134379937
+In epoch 96, loss: 0.21498497358807267
+In epoch 97, loss: 0.2142480777300553
+In epoch 98, loss: 0.21362818424170615
+In epoch 99, loss: 0.21465888193621643
+Global Test Loss tensor(0.1917)
+Global Test AUC 0.9782676690407809
+Global Test Positive MR 15.823707580566406
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_99.pth
+In epoch 100, loss: 0.21429127480746446
+In epoch 101, loss: 0.21329320633392576
+In epoch 102, loss: 0.21353111423775673
+In epoch 103, loss: 0.2121089121741706
+In epoch 104, loss: 0.21185806057464454
+Global Test Loss tensor(0.1915)
+Global Test AUC 0.9783196508802264
+Global Test Positive MR 15.582176208496094
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_104.pth
+In epoch 105, loss: 0.2127517001135466
+In epoch 106, loss: 0.21173042863842811
+In epoch 107, loss: 0.21229293172393365
+In epoch 108, loss: 0.2115317683649289
+In epoch 109, loss: 0.21088182205272513
+Global Test Loss tensor(0.1929)
+Global Test AUC 0.9781134144876623
+Global Test Positive MR 15.54044246673584
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_109.pth
+In epoch 110, loss: 0.21116118372334122
+In epoch 111, loss: 0.21053337591330964
+In epoch 112, loss: 0.21055557612559242
+In epoch 113, loss: 0.21034030040481833
+In epoch 114, loss: 0.2100742835456161
+Global Test Loss tensor(0.1939)
+Global Test AUC 0.9785207286056556
+Global Test Positive MR 15.377260208129883
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_114.pth
+In epoch 115, loss: 0.21067268648795417
+In epoch 116, loss: 0.21063589183451817
+In epoch 117, loss: 0.209871303564376
+In epoch 118, loss: 0.21008045455667457
+In epoch 119, loss: 0.21157144796603475
+Global Test Loss tensor(0.1932)
+Global Test AUC 0.9788911413057759
+Global Test Positive MR 15.415631294250488
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_119.pth
+In epoch 120, loss: 0.20931432353376778
+In epoch 121, loss: 0.209294607153436
+In epoch 122, loss: 0.210982316967812
+In epoch 123, loss: 0.21023746050552922
+In epoch 124, loss: 0.20957330544036334
+Global Test Loss tensor(0.1949)
+Global Test AUC 0.9783199060289525
+Global Test Positive MR 15.442607879638672
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_124.pth
+In epoch 125, loss: 0.20845038198558452
+In epoch 126, loss: 0.2086247439030411
+In epoch 127, loss: 0.20891485856042655
+In epoch 128, loss: 0.2091365521327014
+In epoch 129, loss: 0.20780993903041076
+Global Test Loss tensor(0.1967)
+Global Test AUC 0.9783827967992199
+Global Test Positive MR 15.51088809967041
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_129.pth
+In epoch 130, loss: 0.20860083123518958
+In epoch 131, loss: 0.20786223834913112
+In epoch 132, loss: 0.20800137922097156
+In epoch 133, loss: 0.20714613879838073
+In epoch 134, loss: 0.20702922899387835
+Global Test Loss tensor(0.1957)
+Global Test AUC 0.9782705789735663
+Global Test Positive MR 15.656250953674316
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_134.pth
+In epoch 135, loss: 0.20763923343700633
+In epoch 136, loss: 0.20708789988151657
+In epoch 137, loss: 0.2058858640649684
+In epoch 138, loss: 0.20563758886255923
+In epoch 139, loss: 0.20517332827310428
+Global Test Loss tensor(0.2050)
+Global Test AUC 0.9775910457278879
+Global Test Positive MR 15.558330535888672
+Saved checkpoint to runs\exp6wyze_center\checkpoint_epoch_139.pth
+In epoch 140, loss: 0.20467032916172986
+Traceback (most recent call last):
+  File "E:\study\Federal_Map\FedRule\FedRule_previous\main.py", line 104, in <module>
+    loss.backward()
+  File "E:\Code\Python\Anaconda\envs\fedrule\lib\site-packages\torch\_tensor.py", line 492, in backward
+    torch.autograd.backward(
+  File "E:\Code\Python\Anaconda\envs\fedrule\lib\site-packages\torch\autograd\__init__.py", line 251, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "E:\Code\Python\Anaconda\envs\fedrule\lib\site-packages\torch\autograd\function.py", line 276, in apply
+    def apply(self, *args):
+KeyboardInterrupt
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source
+KERNELBASE.dll     00007FFC891C9DED  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFC8C0AE8D7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFC8C52C48C  Unknown               Unknown  Unknown
+(fedrule) PS E:\study\Federal_Map\FedRule\FedRule_previous>

@@ -1,0 +1,142 @@
+(base) PS C:\Users\Administrator> conda activate fedrule
+(fedrule) PS C:\Users\Administrator> E:
+(fedrule) PS E:\> cd E:\study\Federal_Map\FedRule\FedRule_previous
+(fedrule) PS E:\study\Federal_Map\FedRule\FedRule_previous> python main.py --resume .\runs\exp6wyze_center\checkpoint_epoch_139.pth
+load data
+Resuming from checkpoint .\runs\exp6wyze_center\checkpoint_epoch_139.pth
+Loaded checkpoint at epoch 139
+start training
+In epoch 140, loss: 0.20461264563586098
+In epoch 141, loss: 0.20533672121840443
+In epoch 142, loss: 0.20541128245951817
+In epoch 143, loss: 0.20447770105154028
+In epoch 144, loss: 0.20628205840244865
+Global Test Loss tensor(0.1898)
+Global Test AUC 0.9788638350869774
+Global Test Positive MR 15.284778594970703
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_144.pth
+In epoch 145, loss: 0.20751282027547394
+In epoch 146, loss: 0.20726514674664298
+In epoch 147, loss: 0.2061709030657583
+In epoch 148, loss: 0.20631973242496052
+In epoch 149, loss: 0.20507346588665087
+Global Test Loss tensor(0.1879)
+Global Test AUC 0.9796344371884798
+Global Test Positive MR 14.929574012756348
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_149.pth
+In epoch 150, loss: 0.20607185833827013
+In epoch 151, loss: 0.2051062493828989
+In epoch 152, loss: 0.2044223625098736
+In epoch 153, loss: 0.20362756714060032
+In epoch 154, loss: 0.20384045159458924
+Global Test Loss tensor(0.1927)
+Global Test AUC 0.9794380509468961
+Global Test Positive MR 14.98429012298584
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_154.pth
+In epoch 155, loss: 0.20490195806180886
+In epoch 156, loss: 0.2036339849921011
+In epoch 157, loss: 0.2033521240620063
+In epoch 158, loss: 0.2042669764514218
+In epoch 159, loss: 0.20284590059735388
+Global Test Loss tensor(0.1923)
+Global Test AUC 0.9795068179529911
+Global Test Positive MR 14.857547760009766
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_159.pth
+In epoch 160, loss: 0.20250098736176936
+In epoch 161, loss: 0.20252651992002368
+In epoch 162, loss: 0.20221867903337282
+In epoch 163, loss: 0.20275322743878357
+In epoch 164, loss: 0.20297171208530806
+Global Test Loss tensor(0.1929)
+Global Test AUC 0.9791838659434008
+Global Test Positive MR 15.148849487304688
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_164.pth
+In epoch 165, loss: 0.2024354203692733
+In epoch 166, loss: 0.20096992866311217
+In epoch 167, loss: 0.2012591639514218
+In epoch 168, loss: 0.2013356844885466
+In epoch 169, loss: 0.20200019438684835
+Global Test Loss tensor(0.1969)
+Global Test AUC 0.9787967726635299
+Global Test Positive MR 15.205184936523438
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_169.pth
+In epoch 170, loss: 0.20121255739040284
+In epoch 171, loss: 0.20146181995458134
+In epoch 172, loss: 0.20108932229956555
+In epoch 173, loss: 0.20159295393957347
+In epoch 174, loss: 0.20170130146623222
+Global Test Loss tensor(0.1959)
+Global Test AUC 0.9789886554758843
+Global Test Positive MR 15.077280044555664
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_174.pth
+In epoch 175, loss: 0.2000075594885466
+In epoch 176, loss: 0.2014953439721564
+In epoch 177, loss: 0.2020988379986177
+In epoch 178, loss: 0.20067672850019747
+In epoch 179, loss: 0.20110478068226698
+Global Test Loss tensor(0.2012)
+Global Test AUC 0.9781650763134836
+Global Test Positive MR 15.746139526367188
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_179.pth
+In epoch 180, loss: 0.2009991638280016
+In epoch 181, loss: 0.20317149856832545
+In epoch 182, loss: 0.20004677626382306
+In epoch 183, loss: 0.20118858301244075
+In epoch 184, loss: 0.20093987583925751
+Global Test Loss tensor(0.1990)
+Global Test AUC 0.9786937987074937
+Global Test Positive MR 15.302656173706055
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_184.pth
+In epoch 185, loss: 0.1997092682415087
+In epoch 186, loss: 0.2020041901165087
+In epoch 187, loss: 0.20203610967120852
+In epoch 188, loss: 0.2005305218206951
+In epoch 189, loss: 0.2033041907336098
+Global Test Loss tensor(0.2032)
+Global Test AUC 0.9787834037149075
+Global Test Positive MR 15.12834644317627
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_189.pth
+In epoch 190, loss: 0.2014994939770932
+In epoch 191, loss: 0.20165569769451028
+In epoch 192, loss: 0.20144782718700632
+In epoch 193, loss: 0.2010741261848341
+In epoch 194, loss: 0.19930637835703002
+Global Test Loss tensor(0.2030)
+Global Test AUC 0.9791498156395199
+Global Test Positive MR 14.831178665161133
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_194.pth
+In epoch 195, loss: 0.20160716269253554
+In epoch 196, loss: 0.19997337208728277
+In epoch 197, loss: 0.20095260354956557
+In epoch 198, loss: 0.19990740397906792
+In epoch 199, loss: 0.19987735115521327
+Global Test Loss tensor(0.1986)
+Global Test AUC 0.9792612005196439
+Global Test Positive MR 14.766819953918457
+Saved checkpoint to runs\exp7wyze_center\checkpoint_epoch_199.pth
+(fedrule) PS E:\study\Federal_Map\FedRule\FedRule_previous> python main.py --resume .\runs\exp7wyze_center\checkpoint_epoch_199.pth
+load data
+Resuming from checkpoint .\runs\exp7wyze_center\checkpoint_epoch_199.pth
+Loaded checkpoint at epoch 199
+start training
+In epoch 200, loss: 0.1989897900622038
+In epoch 201, loss: 0.1995559031891785
+In epoch 202, loss: 0.20038298837381516
+In epoch 203, loss: 0.1987053218799368
+In epoch 204, loss: 0.19958334876086098
+Global Test Loss tensor(0.2016)
+Global Test AUC 0.9787812127135727
+Global Test Positive MR 15.069299697875977
+Saved checkpoint to runs\exp8wyze_center\checkpoint_epoch_204.pth
+In epoch 205, loss: 0.20017883590047394
+In epoch 206, loss: 0.20025193152646129
+In epoch 207, loss: 0.19945317128258294
+In epoch 208, loss: 0.1994007176885861
+In epoch 209, loss: 0.199200483807267
+Global Test Loss tensor(0.2063)
+Global Test AUC 0.9784336631067013
+Global Test Positive MR 15.221414566040039
+Saved checkpoint to runs\exp8wyze_center\checkpoint_epoch_209.pth
+In epoch 210, loss: 0.19912127888033176
+In epoch 211, loss: 0.19852108634478674
+In epoch 212, loss: 0.19853418431575828

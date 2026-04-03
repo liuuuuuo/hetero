@@ -1,0 +1,8 @@
+dataset: wyze
+learning_rate: 0.1
+log_dir: runs\exp3wyze_center
+logdir: ./runs
+model_type: graphsage
+more_negative: false
+num_comms: 200
+resume: ''
